@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/flag_us.png",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/drawable-nodpi/flag_us.png"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/flag_uk.png",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/drawable-nodpi/flag_uk.png"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/android1.jpg",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/drawable-nodpi/android1.jpg"
+    }
+]

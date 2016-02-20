@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_warning.png",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/drawable-xhdpi/ic_warning.png"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/layout/box_small.xml",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/layout/box_small.xml"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/layout/aspect.xml",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/layout/aspect.xml"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/layout/compound.xml",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/layout/compound.xml"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/layout/box.xml",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/layout/box.xml"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/layout/double_image.xml",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/layout/double_image.xml"
+    },
+    {
+        "merged": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/build/intermediates/res/merged/debug/layout/entry_form.xml",
+        "source": "/Users/lijiangtao/Downloads/custom-view-examples-master/app/src/main/res/layout/entry_form.xml"
+    }
+]
